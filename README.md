@@ -30,6 +30,14 @@ Sistema complexo que simula o universo de Hogwarts, focado em **Herança, Polimo
 - **Interfaces e Polimorfismo:**
   - `FeiticoPrincipal` (Interface): Contrato que obriga as classes a implementarem o método `lancarFeitico()`.
   - **Comportamento Polimórfico:** O método `lancarFeitico()` reage diferente dependendo do objeto (Estudantes lançam *"Expelliarmus"*, enquanto Magos das trevas lançam *"Sectumsempra"*).
+ 
+### 4. 🇫🇮 MOOC Java Programming I (University of Helsinki)
+Exercícios do renomado curso de Java da Universidade de Helsinki.
+* **Part 1:** Fundamentos da linguagem.
+    * Impressão de texto e leitura de input (Scanner).
+    * Variáveis e tipos de dados.
+    * Cálculos matemáticos simples.
+    * Lógica condicional (if/else) e comparação de strings.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** Java (JDK)
@@ -37,4 +45,4 @@ Sistema complexo que simula o universo de Hogwarts, focado em **Herança, Polimo
 - **Controle de Versão:** Git & GitHub
 
 ---
-*Desenvolvido por [Seu Nome]*
+*Desenvolvido por [Vinícius Oliveira]*
