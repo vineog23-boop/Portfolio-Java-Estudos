@@ -4,15 +4,17 @@
 
 ## 📚 O que é este repositório?
 
-Este repositório é um compilado de estudos e projetos práticos em Java, com foco em aprofundar conhecimentos em **Programação Orientada a Objetos (POO)**, estruturas de dados e lógica de programação. Ele serve como um portfólio de aprendizado e aplicação de conceitos fundamentais da linguagem, demonstrando minha evolução e habilidades técnicas.
+Este repositório é um compilado de estudos e projetos práticos em Java, com foco em aprofundar conhecimentos em **Programação Orientada a Objetos (POO)**, estruturas de dados e lógica de programação. Ele serve como um portfólio de aprendizado e aplicação de conceitos fundamentais da linguagem, demonstrando minha evolução e habilidades técnicas. Aqui, você verá como estou construindo uma base sólida em desenvolvimento Back-end Java.
 
 ---
 
 ## 🎯 O que eu pratiquei aqui
 
--   **Programação Orientada a Objetos (POO):** Implementação robusta de conceitos como **classes, objetos, herança, polimorfismo, encapsulamento e interfaces**. Projetos como `GameOfThronesPOO` e `HarryPotterPoo` são exemplos claros da aplicação desses pilares, onde personagens e magias são modelados de forma hierárquica e interativa.
--   **Lógica de Programação:** Resolução de diversos exercícios para fortalecer o raciocínio lógico e a sintaxe básica do Java, essenciais para a construção de algoritmos eficientes.
--   **Estruturas de Dados:** Utilização de estruturas de dados nativas do Java em problemas práticos, otimizando o armazenamento e acesso à informação.
+Neste projeto, tive a oportunidade de aplicar e consolidar diversos conceitos essenciais para o desenvolvimento Java:
+
+-   **Programação Orientada a Objetos (POO):** Implementação robusta de conceitos como **classes, objetos, herança, polimorfismo, encapsulamento e interfaces**. Projetos como `GameOfThronesPOO` e `HarryPotterPoo` são exemplos claros da aplicação desses pilares, onde personagens e magias são modelados de forma hierárquica e interativa, demonstrando a capacidade de criar sistemas flexíveis e extensíveis.
+-   **Lógica de Programação:** Resolução de diversos exercícios para fortalecer o raciocínio lógico e a sintaxe básica do Java, essenciais para a construção de algoritmos eficientes e a resolução de problemas complexos.
+-   **Estruturas de Dados:** Utilização de estruturas de dados nativas do Java em problemas práticos, otimizando o armazenamento e acesso à informação, um pilar para a performance de aplicações.
 
 ---
 
