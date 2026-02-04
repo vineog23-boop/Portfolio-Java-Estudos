@@ -2,6 +2,10 @@
 
 Este repositório é um compilado de estudos e projetos práticos em Java, com foco em aprofundar conhecimentos em Programação Orientada a Objetos (POO), estruturas de dados e lógica de programação. Ele serve como um portfólio de aprendizado e aplicação de conceitos fundamentais da linguagem.
 
+## O que é
+
+Este repositório reúne meus estudos e implementações em Java, com foco em Programação Orientada a Objetos (POO) e estruturas de dados. Ele demonstra minha evolução e aplicação de conceitos fundamentais da linguagem, servindo como um portfólio prático de aprendizado.
+
 ## O que eu pratiquei aqui
 
 - **Programação Orientada a Objetos (POO):** Implementação de conceitos como classes, objetos, herança, polimorfismo, encapsulamento e interfaces através de projetos como `GameOfThronesPOO` e `HarryPotterPoo`.
@@ -53,3 +57,5 @@ Em evolução. Novos exercícios e projetos são adicionados conforme o aprendiz
 - Implementar testes unitários em alguns projetos de POO.
 - Adicionar um projeto simples de API REST com Spring Boot.
 - Explorar e aplicar padrões de projeto (Design Patterns) em exemplos práticos.
+- Refatorar código para melhorar a legibilidade e manutenção.
+- Adicionar documentação Javadoc para classes e métodos principais.
