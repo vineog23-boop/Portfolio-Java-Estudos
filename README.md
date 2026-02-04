@@ -4,17 +4,17 @@
 
 ## 📚 O que é este repositório?
 
-Este repositório é um compilado de estudos e projetos práticos em Java, com foco em aprofundar conhecimentos em **Programação Orientada a Objetos (POO)**, estruturas de dados e lógica de programação. Ele serve como um portfólio de aprendizado e aplicação de conceitos fundamentais da linguagem, demonstrando minha evolução e habilidades técnicas. Aqui, você verá como estou construindo uma base sólida em desenvolvimento Back-end Java.
+Este repositório é o meu espaço dedicado a estudos e projetos práticos em Java, com um foco intenso em aprofundar meus conhecimentos em **Programação Orientada a Objetos (POO)**, estruturas de dados e lógica de programação. Ele funciona como um portfólio dinâmico do meu aprendizado, onde demonstro a aplicação de conceitos fundamentais da linguagem e minha evolução contínua em desenvolvimento Back-end Java. Meu objetivo é mostrar como estou construindo uma base sólida e aplicando as melhores práticas desde o início da minha jornada.
 
 ---
 
 ## 🎯 O que eu pratiquei aqui
 
-Neste projeto, tive a oportunidade de aplicar e consolidar diversos conceitos essenciais para o desenvolvimento Java:
+Neste projeto, tive a oportunidade de aplicar e consolidar diversos conceitos essenciais para o desenvolvimento Java, sempre com a mentalidade de um futuro desenvolvedor Back-end:
 
--   **Programação Orientada a Objetos (POO):** Implementação robusta de conceitos como **classes, objetos, herança, polimorfismo, encapsulamento e interfaces**. Projetos como `GameOfThronesPOO` e `HarryPotterPoo` são exemplos claros da aplicação desses pilares, onde personagens e magias são modelados de forma hierárquica e interativa, demonstrando a capacidade de criar sistemas flexíveis e extensíveis.
--   **Lógica de Programação:** Resolução de diversos exercícios para fortalecer o raciocínio lógico e a sintaxe básica do Java, essenciais para a construção de algoritmos eficientes e a resolução de problemas complexos.
--   **Estruturas de Dados:** Utilização de estruturas de dados nativas do Java em problemas práticos, otimizando o armazenamento e acesso à informação, um pilar para a performance de aplicações.
+-   **Programação Orientada a Objetos (POO):** Implementação robusta de conceitos como **classes, objetos, herança, polimorfismo, encapsulamento e interfaces**. Projetos como `GameOfThronesPOO` e `HarryPotterPoo` são exemplos claros da aplicação desses pilares, onde personagens e magias são modelados de forma hierárquica e interativa, demonstrando a capacidade de criar sistemas flexíveis, extensíveis e de fácil manutenção.
+-   **Lógica de Programação:** Resolução de diversos exercícios para fortalecer o raciocínio lógico e a sintaxe básica do Java, essenciais para a construção de algoritmos eficientes e a resolução de problemas complexos de forma estruturada.
+-   **Estruturas de Dados:** Utilização de estruturas de dados nativas do Java em problemas práticos, otimizando o armazenamento e acesso à informação, um pilar fundamental para a performance e escalabilidade de aplicações Back-end.
 
 ---
 
@@ -62,14 +62,14 @@ Portfolio-Java-Estudos/
 
 ## 📈 Status
 
-Em evolução. Novos exercícios e projetos são adicionados conforme o aprendizado avança, sempre buscando aprimorar a aplicação dos conceitos de POO e boas práticas de desenvolvimento.
+Em evolução contínua. Novos exercícios e projetos são adicionados conforme o aprendizado avança, sempre buscando aprimorar a aplicação dos conceitos de POO e as boas práticas de desenvolvimento, visando a construção de um portfólio sólido para o mercado de trabalho.
 
 ---
 
 ## 💡 Próximos passos
 
--   Implementar testes unitários em alguns projetos de POO para garantir a robustez do código.
--   Adicionar um projeto simples de API REST com Spring Boot, explorando o desenvolvimento web com Java.
--   Explorar e aplicar padrões de projeto (Design Patterns) em exemplos práticos para soluções mais elegantes e escaláveis.
--   Refatorar código existente para melhorar a legibilidade e manutenção, seguindo princípios de código limpo.
--   Adicionar documentação Javadoc para classes e métodos principais, facilitando o entendimento e a colaboração.
+-   Implementar testes unitários em alguns projetos de POO para garantir a robustez e a qualidade do código.
+-   Adicionar um projeto simples de API REST com Spring Boot, explorando o desenvolvimento web com Java e a integração com bancos de dados.
+-   Explorar e aplicar padrões de projeto (Design Patterns) em exemplos práticos para soluções mais elegantes e escaláveis, preparando-me para desafios de arquitetura.
+-   Refatorar código existente para melhorar a legibilidade e manutenção, seguindo princípios de código limpo e SOLID.
+-   Adicionar documentação Javadoc para classes e métodos principais, facilitando o entendimento e a colaboração em projetos futuros.
